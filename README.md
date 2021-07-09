@@ -1,5 +1,9 @@
 <h1 align="center">
-  Título
+  MoveIt
+</h1>
+
+<h1 align="center">
+  https://moveit-h9tlq1493-diaspd.vercel.app/
 </h1>
 
 <br></br>
@@ -13,7 +17,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="" title="" src="" width="100%" />
+  <img alt="img" title="Moveit" src="img.png" width="100%" />
 </h1>
 
 
@@ -23,7 +27,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/
+$ git@github.com:diaspd/Move.it.git
 $ cd 
 ```
 
@@ -43,21 +47,13 @@ The app will be available for access on your browser at http://localhost:3000
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- 
-- 
-- 
--
--
--
+- TypeScript
+- React
+- NextJs
 
 
 ## 📄 Project
-💰
-
-<br></br>
-
-## 🔖 Layout
-📄
+💰For people who spend a lot of time in front of the computer and need to rest their eyes and body
 
 <br></br>
 
