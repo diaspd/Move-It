@@ -1,6 +1,6 @@
-<h1 align="center">
-  MoveIt
-</h1>
+<p align="center">
+   <img src="./public/logo.svg" alt="Move It" width="320"/>
+</p>
 
 <h1 align="center">
   https://moveit-h9tlq1493-diaspd.vercel.app/
